@@ -1,10 +1,9 @@
-﻿<# #Create iTunes Object
+﻿#Create iTunes Object
 #loop through tracks
-
-<# This form was created using POSHGUI.com  a free online gui designer for PowerShell
-.NAME
-    Untitled
-#>
+# This form was created using POSHGUI.com  a free online gui designer for PowerShell
+#.NAME
+#    Untitled
+#
 
 Set-ExecutionPolicy -ExecutionPolicy Undefined -Scope CurrentUser
 
